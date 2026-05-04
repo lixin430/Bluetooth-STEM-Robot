@@ -1,0 +1,30 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "第六届广西青少年数学文化活动专用蓝牙调试器"
+			}
+		},
+		{
+			"path": "pages/dueihua/dueihua",
+			"style": {
+				"navigationBarTitleText": "对话框"
+			}
+		},
+		{
+			"path": "pages/saidao2/saidao2",
+			"style": {
+				"navigationBarTitleText": "赛道二"
+			}
+		}
+		
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
